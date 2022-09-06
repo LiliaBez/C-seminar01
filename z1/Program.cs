@@ -3,8 +3,8 @@ string input = Console.ReadLine(); // пользовательский ввод
 Console.WriteLine("Введите число B");
 string input2 = Console.ReadLine(); // пользовательский ввод
 
-int numberA = int.Parse(input); //если ошибка, программа вылетает, более нежная команда if (int.TryParse (input))
-int numberB = int.Parse(input2); //если ошибка, программа вылетает, более нежная команда if (int.TryParse (input))
+int numberA = int.Parse(input); 
+int numberB = int.Parse(input2); 
 
 
 double quot = numberA / numberB; // частное
