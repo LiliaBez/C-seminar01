@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите число A");
+﻿//Задача с семинара, самостоятельное решение
+Console.WriteLine("Введите число A");
 string input = Console.ReadLine(); // пользовательский ввод
 Console.WriteLine("Введите число B");
 string input2 = Console.ReadLine(); // пользовательский ввод
