@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите число A");
+﻿// Напишите программу, которая принимает на вход три числа 
+//и выдает максимальное из этих чисел.
+Console.WriteLine("Введите число A");
 string input = Console.ReadLine(); // пользовательский ввод
 Console.WriteLine("Введите число B");
 string input2 = Console.ReadLine(); // пользовательский ввод
